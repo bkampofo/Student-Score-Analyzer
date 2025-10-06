@@ -18,4 +18,4 @@ A beginner-friendly C# WinForms applica
 ## Future Improvements
 - Add chart visualizations
 - Export results to CSV
-- Include student name
+- Include student ID and Courses
