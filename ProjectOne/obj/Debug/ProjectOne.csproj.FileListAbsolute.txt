@@ -1,0 +1,11 @@
+C:\Users\bkamp\OneDrive\Desktop\FALL 2025\Visual Programming\ProjectOne\bin\Debug\ProjectOne.exe.config
+C:\Users\bkamp\OneDrive\Desktop\FALL 2025\Visual Programming\ProjectOne\bin\Debug\ProjectOne.exe
+C:\Users\bkamp\OneDrive\Desktop\FALL 2025\Visual Programming\ProjectOne\bin\Debug\ProjectOne.pdb
+C:\Users\bkamp\OneDrive\Desktop\FALL 2025\Visual Programming\ProjectOne\obj\Debug\ProjectOne.csproj.AssemblyReference.cache
+C:\Users\bkamp\OneDrive\Desktop\FALL 2025\Visual Programming\ProjectOne\obj\Debug\ProjectOne.Form1.resources
+C:\Users\bkamp\OneDrive\Desktop\FALL 2025\Visual Programming\ProjectOne\obj\Debug\ProjectOne.Properties.Resources.resources
+C:\Users\bkamp\OneDrive\Desktop\FALL 2025\Visual Programming\ProjectOne\obj\Debug\ProjectOne.csproj.GenerateResource.cache
+C:\Users\bkamp\OneDrive\Desktop\FALL 2025\Visual Programming\ProjectOne\obj\Debug\ProjectOne.csproj.CoreCompileInputs.cache
+C:\Users\bkamp\OneDrive\Desktop\FALL 2025\Visual Programming\ProjectOne\obj\Debug\ProjectOne.exe
+C:\Users\bkamp\OneDrive\Desktop\FALL 2025\Visual Programming\ProjectOne\obj\Debug\ProjectOne.pdb
+C:\Users\bkamp\OneDrive\Desktop\FALL 2025\Visual Programming\ProjectOne\obj\Debug\ProjectOne.exe.config
